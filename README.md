@@ -71,6 +71,8 @@ It's implemented based on SubGHz_Phy_PingPong example that is included in STM32C
     }
 
 ## Test Result
+If the test result is correct, the same results as below should be produced regardless of the MANUAL_CONF_EN value.
+
 ### TX device
 ![TX device](https://github.com/Moris-CHO/ST_STM32WL_SubGHz_Phy_Pocsag_Example/assets/126548709/5ff40a47-cd89-4ea0-b316-9d19abd35287)
 ### RX device
